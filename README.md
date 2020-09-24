@@ -1,3 +1,10 @@
-## Dating app client
+# Dating app client
 
-*** Swipe functions left / right ***
+## Made with React.js
+## Visuals by MaterialUI
+
+**Notable functionality**
+
+*Swiping left / right*
+
+![Dating app Image](https://gyazo.com/e86656136bf0269bb7a85558817a46e7)
